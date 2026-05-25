@@ -1,4 +1,5 @@
 # Email Spam Classifier
+created by shekhar hadge
 
 Classify emails as spam or legitimate in real-time using natural language processing (NLP), data analytics, and machine learning (ML) techniques.
 
